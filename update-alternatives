@@ -1,0 +1,12 @@
+[~/workspaces/git/tester] (master) $ sudo update-alternatives --config java
+[sudo] password for karen: 
+There are 3 choices for the alternative java (providing /usr/bin/java).
+
+  Selection    Path                               Priority   Status
+------------------------------------------------------------
+  0            /usr/lib/jvm/jdk1.7.0/bin/java      1         auto mode
+  1            /usr/lib/jvm/jdk1.7.0/bin/java      1         manual mode
+  2            /usr/lib/jvm/jdk1.7.0_09/bin/java   1         manual mode
+* 3            /usr/lib/jvm/jdk1.8.0_05/bin/java   1         manual mode
+
+Press enter to keep the current choice[*], or type selection number: 
